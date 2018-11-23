@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "alias": "https://phpbot-5icsjyph8.now.sh/",
+  "builds": [
+    { "src": "*.php", "use": "@now/php" }
+  ]
+}

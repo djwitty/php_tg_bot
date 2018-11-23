@@ -1,0 +1,19 @@
+{
+  "name": "phpbot",
+  "version": "1.0.1",
+  "description": "php bot server test",
+  "main": "setWebHook.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djwitty/php_tg_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djwitty/php_tg_bot/issues"
+  },
+  "homepage": "https://github.com/djwitty/php_tg_bot#readme"
+}
